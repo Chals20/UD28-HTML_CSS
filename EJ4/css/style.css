@@ -1,0 +1,20 @@
+h1{
+    background-color: rgb(236, 206, 105);
+    font-size: 130%;
+}
+h2{
+    color:rgb(69, 144, 167);
+}
+body{
+    background-color: rgb(255, 251, 198);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    color:rgb(103, 140, 151);
+}
+span{
+    color:rgb(103, 140, 151);
+}
+ul{
+    list-style:none;
+}
